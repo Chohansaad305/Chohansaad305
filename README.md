@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">I'm Saad Chohan from Pakistan<br><br>- 🔭 I’m working as Web Developer <br>- 📚 I'm currently learning in 1st year.<br>- ⚡ In my free time I</p>
+<p align="left">I'm Saad Chohan from Pakistan<br><br>- 🔭 I’m working as Web Developer <br>- 📚 I'm currently learning in Inter.</p>
 
 ###
 
