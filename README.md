@@ -24,15 +24,14 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
-
-###
-
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
 
 <p align="left">I'm Saad Chohan from Pakistan<br><br>- 🔭 I’m working as Web Developer <br>- 📚 I'm currently learning in Inter.</p>
+
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
 
 ###
 
@@ -75,6 +74,4 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-###
