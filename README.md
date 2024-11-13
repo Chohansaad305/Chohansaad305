@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="file:///C:/Users/DT/Pictures/github%20profile%20img1.webp"  />
+  <img height="200" src="https://www.interviewbit.com/blog/wp-content/uploads/2021/08/web-developer-skills.jpg"  />
 </div>
 
 ###
