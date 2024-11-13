@@ -4,9 +4,6 @@
 
 ###
 
-<sdkfsa;kldfsvncm;sdkzl>
-
-
 ## <div align="center">Hey 👋, I'm Saad Chohan!</div>  
   
 
