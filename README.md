@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://www.interviewbit.com/blog/wp-content/uploads/2021/08/web-developer-skills.jpg"  />
+  <img height="300" width="600" src="https://www.interviewbit.com/blog/wp-content/uploads/2021/08/web-developer-skills.jpg"  />
 </div>
 
 ###
