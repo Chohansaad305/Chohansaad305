@@ -43,7 +43,7 @@
 
 </td><td valign="top" width="50%">
 
-<div align="center">
+<div align="right">
 <img src="https://tse3.mm.bing.net/th?id=OIP.mmgqLAo7CqmHU2-V1_pBfwHaEm&pid=Api&P=0&h=220" align="center" style="width: 100%" />
 </div>  
 
