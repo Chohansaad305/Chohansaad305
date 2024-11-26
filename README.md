@@ -53,7 +53,7 @@
 <br/>  
 
 
-## Languages and Tools  
+## Languages and Tools:  
 <div align="center">  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" /></a>  
@@ -69,7 +69,7 @@
 <br/>  
 
 
-## Github Stats  
+## Github Status:  
 <table><tr><td valign="top" width="50%">
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Chohansaad305&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div>
@@ -94,4 +94,3 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Chohansaad305&&style=flat-square" align="center" />
 </div> 
-###
