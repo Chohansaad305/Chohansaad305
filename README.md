@@ -78,6 +78,11 @@
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chohansaad305&hide_border=true&layout=compact" align="center" style="width: 100%" /></div>
 
+<br/>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Chohansaad305 &locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 </td></tr></table>  
 
 <br/>  
@@ -88,19 +93,5 @@
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Chohansaad305&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>
-
----------------------------------------------------------------------
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Chohansaad305 &locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
+</div> 
 ###
