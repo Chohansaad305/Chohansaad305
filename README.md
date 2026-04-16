@@ -2,7 +2,7 @@
   <img height="300" width="100%" src="https://www.interviewbit.com/blog/wp-content/uploads/2021/08/web-developer-skills.jpg" />
 </div>
 
-<h1 align="center">Hi 👋, I'm Saad Chohan</h1>
+<h1 align="center">Hi 👋, I'm Saad Chauhan</h1>
 
 <h3 align="center">🚀 Frontend & PHP Laravel Developer | Building Modern Web Applications</h3>
 
@@ -85,7 +85,7 @@
 ---
 
 ## 📫 Contact Me
-- 📧 Email: your-email@gmail.com  
+- 📧 Email: chohansaad305@gmail.com  
 - 💼 LinkedIn: https://www.linkedin.com/in/saad-chohan-09730a330/
 
 ---
