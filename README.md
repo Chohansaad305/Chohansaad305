@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="300" width="100%" src="https://www.google.com/imgres?q=web%20developer&imgurl=https%3A%2F%2Fcrystal.com.cy%2Fwp-content%2Fuploads%2F2024%2F09%2F1716992507183.jpeg&imgrefurl=https%3A%2F%2Fcrystal.com.cy%2Fnews%2Fwhat-you-need-to-know-to-become-a-web-developer%2F&docid=lE8I2iQN7NZVTM&tbnid=elx1BrWPdePONM&vet=12ahUKEwjgyrvP3PGTAxVF87sIHUuCATQQnPAOegQIJhAB..i&w=1280&h=720&hcb=2&ved=2ahUKEwjgyrvP3PGTAxVF87sIHUuCATQQnPAOegQIJhAB" />
+  <img height="300" width="100%" src="https://crystal.com.cy/wp-content/uploads/2024/09/1716992507183-1024x576.jpeg" />
 </div>
 
 <h1 align="center">Hi 👋, I'm Saad Chauhan</h1>
