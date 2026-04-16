@@ -1,96 +1,95 @@
 <div align="center">
-  <img height="300" width="800" src="https://www.interviewbit.com/blog/wp-content/uploads/2021/08/web-developer-skills.jpg"  />
+  <img height="300" width="100%" src="https://www.interviewbit.com/blog/wp-content/uploads/2021/08/web-developer-skills.jpg" />
 </div>
 
-###
+<h1 align="center">Hi 👋, I'm Saad Chohan</h1>
 
-## <div align="center">Hey 👋, I'm Saad Chohan!</div>  
-  
+<h3 align="center">🚀 Frontend & PHP Laravel Developer | Building Modern Web Applications</h3>
 
 <div align="center">
 <a href="https://github.com/Chohansaad305" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/saad-chohan-09730a330/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://www.facebook.com/profile.php?id=61566189220930" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
 <a href="https://www.instagram.com/chohansaad5/" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-<a href="https://www.youtube.com/@saad-chauhan" target="_blank">
-<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
-</a>
-<a href="https://x.com/SaadChohan305" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
-<br/>  
-
-
-## Rapidfire:  
-<table><tr><td valign="top" width="50%">
-
-- 🔭 I’m currently working on [Github Flutter_Project](https://github.com/Chohansaad305/flutter_Project)  
-  
-
-- 🌱 I’m currently learning web development skill.  
-
-
-</td><td valign="top" width="50%">
-
-<div align="right">
-<img src="https://tse3.mm.bing.net/th?id=OIP.mmgqLAo7CqmHU2-V1_pBfwHaEm&pid=Api&P=0&h=220" align="center" style="width: 100%" />
-</div>  
-
-
-</td></tr></table>  
-
-<br/>  
-
-
-## Languages and Tools:  
-<div align="center">  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" /></a>  
-<a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="25" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="25" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="25" /></a>  
-<a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="25" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" /></a>  
-</div>  
-
-<br/>  
-
-
-## GitHub Status:  
-<table><tr><td valign="top" width="50%">
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Chohansaad305&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div>
-
-</td><td valign="top" width="50%">
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chohansaad305&hide_border=true&layout=compact" align="center" style="width: 100%" /></div>
-
-<br/>
-
-</td></tr></table>  
-
-<br/>  
-
-<div align="center">
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=chohansaad305&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
 </div>
-  
 
-<br/>  
+---
+
+## 👨‍💻 About Me
+- 💻 Frontend Developer + PHP Laravel Developer  
+- 🎓 Aptech Student (Software Engineering)  
+- 🚀 I build responsive, dynamic & user-friendly web applications  
+- 🔥 Focused on real-world projects and clean UI/UX  
+
+---
+
+## 🛠️ Tech Stack
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,jquery,php,laravel,mysql,git,github,figma" />
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+### 💉 Vaccination Management System
+- Role-based system (Admin, Parent, Hospital)
+- Appointment & record management
+- Built with PHP, MySQL, Bootstrap
+
+---
+
+### ☀️ Solar Shop Management System
+- Product & sales management
+- Admin dashboard with worker tracking
+- Built with PHP & MySQL
+
+---
+
+### 🎓 NexaTech Institute (Laravel)
+- Multi-role system (Admin, Teacher, Student, Parent)
+- Authentication & dashboards
+- Built with Laravel & Bootstrap
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=Chohansaad305&&style=flat-square" align="center" />
-</div> 
+
+<img src="https://github-readme-stats.vercel.app/api?username=Chohansaad305&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chohansaad305&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img src="https://streak-stats.demolab.com?user=Chohansaad305&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🎯 Goals
+- 🔥 Become a Professional Full Stack Developer  
+- 🚀 Work on real-world SaaS & web applications  
+- 💡 Improve JavaScript & Laravel expertise  
+
+---
+
+## 📫 Contact Me
+- 📧 Email: your-email@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/saad-chohan-09730a330/
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Chohansaad305&style=flat-square" />
+</div>
